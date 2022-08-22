@@ -29,17 +29,17 @@ let package = Package(
         .binaryTarget(
             name: "GoogleMaps",
             url: "https://github.com/goziomobile/GoogleMaps-SP/releases/download/7.0.0/GoogleMaps.xcframework.zip",
-            checksum: "fbaa3256c34f153e14dccd6627068e6778c1b77b13dcbc184b10977586b207aa"
+            checksum: "d7ec69a474b10cd205d9e86edad7bf93aaa145937ed82b3accc2479caf85caad"
         ),
         .binaryTarget(
             name: "GoogleMapsBase",
             url: "https://github.com/goziomobile/GoogleMaps-SP/releases/download/7.0.0/GoogleMapsBase.xcframework.zip",
-            checksum: "cc5ee93d9a48374be11c9165c0f79998e001af65c5147413fdbbfb1d6277c6a8"
+            checksum: "2858fe279eea110c8f96f24876cf6d78a3e799be77e06d2849364a7ef280752f"
         ),
         .binaryTarget(
             name: "GoogleMapsCore",
             url: "https://github.com/goziomobile/GoogleMaps-SP/releases/download/7.0.0/GoogleMapsCore.xcframework.zip",
-            checksum: "f38ff976af17397f37bde459401453fd614d8d2c29c50d6205c2eabdd3510bb4"
+            checksum: "169966f74f779acf523283dc9395f89fcdd5b2fa34f0981a45f9cdb7a85a1704"
         )
     ]
 )
